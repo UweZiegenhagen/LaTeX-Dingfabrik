@@ -17,6 +17,6 @@ Der Kurs ist kostenlos, aber die Anzahl der Plätze ist limitiert. Bitte meldet 
 ## Was müsst ihr mitbringen?
 
 * Einen Laptop
-* mit installiertem TeX-Live
+* mit installiertem TeX-Live (siehe https://www.youtube.com/watch?v=k9KhuZz7k-Q&t=22s)
 * oder alternativ besorgt euch einen Account bei overleaf.com
 
