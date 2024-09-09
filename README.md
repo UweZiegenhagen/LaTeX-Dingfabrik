@@ -1,6 +1,8 @@
 # LaTeX-Dingfabrik
 
-Am 22. September gibt es in der Dingfabrik einen kostenlosen LaTeX-Kurs, Kurssprache ist deutsch.
+Am 22. September gibt es in der Dingfabrik einen LaTeX-Kurs, Kurssprache ist deutsch.
+
+Die Teilnahme kostet nichts, die Veranstaltung wird von der Rheinischen Stiftung für Bildung gesponsort.
 
 ## Ablauf
 
