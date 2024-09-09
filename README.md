@@ -1,6 +1,6 @@
 # LaTeX-Dingfabrik
 
-Am 22. September gibt es in der Dingfabrik einen kostenlosen LaTeX-Kurs.
+Am 22. September gibt es in der Dingfabrik einen kostenlosen LaTeX-Kurs, Kurssprache ist deutsch.
 
 ## Ablauf
 
@@ -14,5 +14,9 @@ Zwischendurch machen wir auch kleinere Pausen.
 
 Der Kurs ist kostenlos, aber die Anzahl der Plätze ist limitiert. Bitte meldet euch per E-Mail an ziegenhagen@gmail.com oder (für Dingfabrikmitglieder) über Slack bei mir.
 
+## Was müsst ihr mitbringen?
 
+* Einen Laptop
+* mit installiertem TeX-Live
+* oder alternativ besorgt euch einen Account bei overleaf.com
 
